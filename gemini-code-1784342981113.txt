@@ -1,9 +1,0 @@
-sign-language-to-text/
-│
-├── models/
-│   ├── keras_model.h5         # You MUST upload your Teachable Machine model here
-│   └── labels.txt             # You MUST upload your class labels here
-│
-├── README.md                  # Project documentation
-├── requirements.txt           # Python dependencies
-└── Sign_Language_Colab.ipynb  # The main Jupyter/Colab Notebook
